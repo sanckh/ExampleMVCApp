@@ -1,0 +1,17 @@
+C:\Programming\Example\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+C:\Programming\Example\Infrastructure\bin\Debug\net6.0\Infrastructure.runtimeconfig.json
+C:\Programming\Example\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+C:\Programming\Example\Infrastructure\bin\Debug\net6.0\ref\Infrastructure.dll
+C:\Programming\Example\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+C:\Programming\Example\Infrastructure\bin\Debug\net6.0\ApplicationCore.dll
+C:\Programming\Example\Infrastructure\bin\Debug\net6.0\ApplicationCore.pdb
+C:\Programming\Example\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Programming\Example\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Example\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Programming\Example\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+C:\Programming\Example\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Programming\Example\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+C:\Programming\Example\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+C:\Programming\Example\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+C:\Programming\Example\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+C:\Programming\Example\Infrastructure\obj\Debug\net6.0\Infrastructure.genruntimeconfig.cache
